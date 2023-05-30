@@ -16,5 +16,12 @@ The last cell returns the finalized comments and their positivity level.
 Please run all the cells in order.
 
 --------------------------------------------------------------------------------------------------------------
+Libraries Used:
+* convokit
+* nltk
+* scipy
+* gensim
+* GingerIt
+--------------------------------------------------------------------------------------------------------------
 
 All the work for this program was done by Ozan Demircan.
