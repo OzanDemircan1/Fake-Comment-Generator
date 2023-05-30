@@ -9,7 +9,7 @@ A general topic(ideally political) in the form of a single word, must be given a
 
 A Trigram Language model is used to generate the comments.
 
-The created comments goes through a evaluation of 2 layers, a grammar check and a positivity meter respectfully.
+The created comments goes through a evaluation of 2 layers, a grammar check and a positivity meter respectively.
 
 The last cell returns the finalized comments and their positivity level.
 
